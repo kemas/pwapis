@@ -1,14 +1,14 @@
 import json
 
 class MashupsJSON:
-    ID_ATTRIBUTES = 1
-    ID_TARGETS = 2
-    ID_ENDPOINTS = 3
-    ID_MASHUPURLS = 4
-
     def __init__(self, obj):
+        self._ID_ATTRIBUTES = 1
+        self._ID_TARGETS = 2
+        self._ID_ENDPOINTS = 3
+        self._ID_MASHUPURLS = 4
+
         self._obj = obj
-        self._items = obj[1]
+        self._items = obj[1:]
 
     def get_items(self):
         return self._items
@@ -17,25 +17,25 @@ class MashupsJSON:
         return self._items[idx]
 
     def get_vid(self, item):
-        return item[ID_ATTRIBUTES]['vid']
+        return item[self._ID_ATTRIBUTES]['vid']
 
     def get_title(self, item):
-        return item[ID_ATTRIBUTES]['title'].replace('\/', '/')
+        return item[self._ID_ATTRIBUTES]['title']
 
     def is_mashup(self, item):
-        return item[ID_ATTRIBUTES]['type'] == 'mashup'
+        return item[self._ID_ATTRIBUTES]['type'] == 'mashup'
 
     def get_lscompvid(self, item):
         # only when type == 'mashup' (!= 'api')
 
         ls = []
-        for t in item[ID_TARGETS][1:]:
+        for t in item[self._ID_TARGETS][1:]:
             ls.append(t[1])
         return ls
 
     def get_lsendpoint(self, item):
         ls = []
-        for t in item[ID_ENDPOINTS][1:]:
+        for t in item[self._ID_ENDPOINTS][1:]:
             try:
                 ls.append(t[1])
             except IndexError:
@@ -45,7 +45,7 @@ class MashupsJSON:
 
     def get_lsmashupurls(self, item):
         ls = []
-        for t in item[ID_MASHUPURLS][1:]:
+        for t in item[self._ID_MASHUPURLS][1:]:
             try:
                 ls.append(t[1])
             except IndexError:
@@ -60,7 +60,7 @@ def load(filename):
     return obj
 
 def readdeg(obj):
-    apis = {} # api and mashups {id:degree, ...}
+    apis = {} # api and mashups {id:[degree,name], ...}
 
     mashups = MashupsJSON(obj)
     items = mashups.get_items()
@@ -70,20 +70,43 @@ def readdeg(obj):
 
         if not apis.has_key(vid):
             # vid not found, add to the dictionary
-            apis[vid] = 0
+            apis[vid] = [0, mashups.get_title(item)]
 
         if mashups.is_mashup(item):
             # mashup components 
-            lscomps = mashups.get_lscompvid()
+            lscomps = mashups.get_lscompvid(item)
             for compvid in lscomps:
                 if not apis.has_key(compvid):
                     # vid not found, add to the dictionary
-                    apis[compvid] = 0
+                    apis[compvid] = [0, mashups.get_title(item)]
 
                 # increment the degree
-                apis[compvid] += 1
+                apis[compvid][0] += 1
 
-    # transform to list
+    # build result
+    maxdeg = 0; maxdegid = None
+    mashupid = apis.keys()
+    indegree = []; mashupname = []
+
+    for key in mashupid:
+        degree = apis[key][0]
+
+        if degree > maxdeg:
+            maxdeg = degree
+            maxdegid = key
+
+        indegree.append(degree)
+        mashupname.append(apis[key][1])
+
+    # return the degrees as json readable format for pyplot, and max degree id
+    return {'indegree':indegree, 'mashupid':mashupid, 'mashupname':mashupname, 'maxindegree':maxdeg, 'maxindegreeid':maxdegid}
+
+def savetofile(ds, filename):
+    f = open(filename, 'w')
+    try:
+        json.dump(ds, f)
+    finally:
+        f.close()
 
 #def gethubs(thold, indegrees):
 #    ls = []; lsidx = []
@@ -97,6 +120,6 @@ def readdeg(obj):
 #        i += 1
 #
 #    return ls, lsidx
-#
-#if __name__ == '__main__':
-#    sys.exit(main(sys.argv))
+
+if __name__ == '__main__':
+    sys.exit(main(sys.argv))
