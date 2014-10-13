@@ -1,0 +1,85 @@
+Google map 
+/result/item[vid=62687]
+
+EV Mapper
+/result/item[vid=80727]
+
+Check other types if any
+/result/item[type!='api' and type!='mashup' and type!='news' and type!='howto' and type!='resource' and type!='interview' and type!='analysis' and type!='brief' and type!='how_to_source_code' and type!='elsewhere_on_the_web' and type!='press_release' and type!='advertorial' and type!='review' and type!='research']
+
+/*/group/user[not(. = ../following-sibling::group/user)]
+
+count(/result/item[type='mashup'])
+
+count(/result/item[type='api'])
+
+count(for $item in db:open('mashupsall')/result/item
+where $item[type = 'mashup']
+return $item/vid)
+
+7607
+
+count(for $item in db:open('mashupsall')/result/item
+where $item[type = 'mashup']
+return $item/vid)
+
+11553
+
+for $item in db:open('mashupsall')/result/item
+where $item[vid = following/vid]
+return $item 
+
+for $item in db:open('mashupsall')/result/item
+where $item[type = 'mashup' or type = 'api']
+return $item 
+
+19159
+
+for $item in db:open('mashupsall')/result/item
+where $item[type = 'mashup' or type = 'api']
+return 
+  <item>
+    {$item/vid}
+    {$item/uid}
+    {$item/title}
+    {$item/type}
+    <field_api>{$item/field_api/und/item/target_id}</field_api>
+    <field_api_endpoint>{$item/field_api_endpoint/und/item/value}</field_api_endpoint>
+    <field_mashup_url>{$item/field_api_endpoint/und/item/value}</field_mashup_url>
+  </item>
+
+
+(: serialize result as plain text :)
+declare option output:method 'text';
+let $json := json:serialize(
+<result>
+{for $item in db:open('mashupsall')/result/item
+where $item[type = 'mashup' or type = 'api']
+return
+  <item>
+    {$item/vid}
+    {$item/uid}
+    {$item/title}
+    {$item/type}
+    <fieldapi>{$item/field_api/und/item/target_id}</fieldapi>
+    <fieldapiendpoint>{$item/field_api_endpoint/und/item/value}</fieldapiendpoint>
+    <fieldmashupurl>{$item/field_api_endpoint/und/item/value}</fieldmashupurl>
+  </item>}
+</result>, <json:options><json:format value="jsonml"/></json:options>)
+return file:write('mashupsall.json', $json)
+
+declare option output:method 'text';
+let $json := json:serialize(
+<result>
+{for $item in db:open('mashupsall')/result/item
+where $item[type = 'mashup' or type = 'api']
+return
+  <item vid="{$item/vid}" uid="{$item/uid}" title="{$item/title}" type="{$item/type}">
+    <fieldapi>{$item/field_api/und/item/target_id}</fieldapi>
+    <fieldapiendpoint>{$item/field_api_endpoint/und/item/value}</fieldapiendpoint>
+    <fieldmashupurl>{$item/field_api_endpoint/und/item/value}</fieldmashupurl>
+  </item>}
+</result>, <json:options><json:format value="jsonml"/></json:options>)
+return file:write('pwapis/mashupsall.json', $json)
+
+

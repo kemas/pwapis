@@ -1,0 +1,10 @@
+python getapis.py -m -l 2000 -o 12000 -f mashupsall2000_7.xml
+python getapis.py -m -l 2000 -o 14000 -f mashupsall2000_8.xml
+python getapis.py -m -l 2000 -o 16000 -f mashupsall2000_9.xml
+python getapis.py -m -l 2000 -o 18000 -f mashupsall2000_10.xml
+python getapis.py -m -l 2000 -o 20000 -f mashupsall2000_11.xml
+python getapis.py -m -l 2000 -o 22000 -f mashupsall2000_12.xml
+python getapis.py -m -l 2000 -o 24000 -f mashupsall2000_13.xml
+python getapis.py -m -l 2000 -o 26000 -f mashupsall2000_14.xml
+python getapis.py -m -l 2000 -o 28000 -f mashupsall2000_15.xml
+python getapis.py -m -l 2000 -o 30000 -f mashupsall2000_16.xml

@@ -1,0 +1,10409 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<result>
+<openSearch_totalResults>29465</openSearch_totalResults>
+<openSearch_startIndex>0</openSearch_startIndex>
+<item>
+<vid>70090</vid>
+<uid>61422</uid>
+<title>Windows Azure SQL Database Management</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>70090</nid>
+<type>api</type>
+<language>und</language>
+<created>1343074319</created>
+<changed>1397952135</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397952135</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value>https://management.database.windows.net:8443</value>
+<format/>
+<safe_value>https://management.database.windows.net:8443</safe_value>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling>
+<und is_array="true">
+<item>
+<tid>21190</tid>
+</item>
+</und>
+</field_data_marshaling>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>35683</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Windows Azure SQL Database Management</value>
+<format/>
+<safe_value>Windows Azure SQL Database Management</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.windowsazure.com/en-us/</value>
+<format/>
+<safe_value>http://www.windowsazure.com/en-us/</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>
+http://msdn.microsoft.com/en-us/library/windowsazure/gg715283.aspx
+</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>10741</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at7596.png</uri>
+<filemime>image/png</filemime>
+<filesize>4109</filesize>
+<status>1</status>
+<timestamp>1389403656</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>130</width>
+<height>27</height>
+</image_dimensions>
+<alt>Windows Azure SQL Database Management</alt>
+<title>Windows Azure SQL Database Management</title>
+<width>130</width>
+<height>27</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category>
+<und is_array="true">
+<item>
+<tid>20174</tid>
+</item>
+</und>
+</field_article_primary_category>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>73082</fid>
+<uid>1</uid>
+<filename>api_favicon70090.ico</filename>
+<uri>public://apis/favicon/api_favicon70090.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>271</filesize>
+<status>1</status>
+<timestamp>1397952135</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by RW</value>
+<format/>
+<safe_value>To Be Completed by RW</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value>Windows Azure</value>
+<format/>
+<safe_value>Windows Azure</safe_value>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397952135</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397952135</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>70203</vid>
+<uid>61422</uid>
+<title>BSCW</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>70203</nid>
+<type>api</type>
+<language>und</language>
+<created>1343769768</created>
+<changed>1397952475</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397952475</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value>
+BSCW Actions and Their Corresponding XML-RPC Methods .................................... ..................................................... 3. Packages in BSCW . PDF Documentation is here: http://www.bscw.de/files/Download/BSCW50-API.pdf
+</value>
+<format/>
+<safe_value>
+BSCW Actions and Their Corresponding XML-RPC Methods .................................... ..................................................... 3. Packages in BSCW . PDF Documentation is here: http://www.bscw.de/files/Download/BSCW50-API.pdf
+</safe_value>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>0</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>BSCW</value>
+<format/>
+<safe_value>BSCW</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://bscw.de</value>
+<format/>
+<safe_value>http://bscw.de</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>http://www.bscw.de/english/documentation.html</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload/>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>1</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value>XML-RPC</value>
+<format/>
+<safe_value>XML-RPC</safe_value>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>73203</fid>
+<uid>1</uid>
+<filename>api_favicon70203.ico</filename>
+<uri>public://apis/favicon/api_favicon70203.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>572</filesize>
+<status>1</status>
+<timestamp>1397952475</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed AD</value>
+<format/>
+<safe_value>To Be Completed AD</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397952475</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397952475</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>70682</vid>
+<uid>61422</uid>
+<title>StorePlacer</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>70682</nid>
+<type>api</type>
+<language>und</language>
+<created>1346856981</created>
+<changed>1397953791</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397953791</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value>
+Social media commerce platform Storeplacer is a social commerce platform. It allows retailers and other online merchants to make their inventory available through social media platforms. Clients can create storefronts for social media like Facebook and integrate secure checkout options. Storeplacer also provides cloud-based inventory management and analytical tools. Their API exposes the platformâ€™s entire functionality for integration and further development. It is a RESTful API that returns JSON-encoded data.
+</value>
+<format/>
+<safe_value>
+Social media commerce platform Storeplacer is a social commerce platform. It allows retailers and other online merchants to make their inventory available through social media platforms. Clients can create storefronts for social media like Facebook and integrate secure checkout options. Storeplacer also provides cloud-based inventory management and analytical tools. Their API exposes the platformâ€™s entire functionality for integration and further development. It is a RESTful API that returns JSON-encoded data.
+</safe_value>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling>
+<und is_array="true">
+<item>
+<tid>21173</tid>
+</item>
+<item>
+<tid>21190</tid>
+</item>
+</und>
+</field_data_marshaling>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>41478</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>StorePlacer</value>
+<format/>
+<safe_value>StorePlacer</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.storeplacer.com/</value>
+<format/>
+<safe_value>http://www.storeplacer.com/</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>http://www.storeplacer.com/platform/console/</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value>No</value>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value>http://www.storeplacer.com/company/news/</value>
+<format/>
+<safe_value>http://www.storeplacer.com/company/news/</safe_value>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value>http://www.storeplacer.com/company/news/feed/</value>
+<format/>
+<safe_value>http://www.storeplacer.com/company/news/feed/</safe_value>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value>http://twitter.com/storeplacer</value>
+<format/>
+<safe_value>http://twitter.com/storeplacer</safe_value>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>11302</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at8188.png</uri>
+<filemime>image/png</filemime>
+<filesize>4079</filesize>
+<status>1</status>
+<timestamp>1389403708</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>130</width>
+<height>27</height>
+</image_dimensions>
+<alt>StorePlacer</alt>
+<title>StorePlacer</title>
+<width>130</width>
+<height>27</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email>info@storeplacer.com</email>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category>
+<und is_array="true">
+<item>
+<tid>20099</tid>
+</item>
+</und>
+</field_article_primary_category>
+<field_article_secondary_category>
+<und is_array="true">
+<item>
+<tid>20087</tid>
+</item>
+</und>
+</field_article_secondary_category>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>73693</fid>
+<uid>1</uid>
+<filename>api_favicon70682.ico</filename>
+<uri>public://apis/favicon/api_favicon70682.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>726</filesize>
+<status>1</status>
+<timestamp>1397953791</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>
+To Be Completed by TN -- provider requested this not be published yet
+</value>
+<format/>
+<safe_value>
+To Be Completed by TN -- provider requested this not be published yet
+</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value>Account with service</value>
+<format/>
+<safe_value>Account with service</safe_value>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value>Yes</value>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value>http://www.storeplacer.com/legal/</value>
+<format/>
+<safe_value>http://www.storeplacer.com/legal/</safe_value>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>Effectively hidden</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>With login</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397953791</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397953791</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>71042</vid>
+<uid>61422</uid>
+<title>Experian Business and Credit Information</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>71042</nid>
+<type>api</type>
+<language>und</language>
+<created>1349462511</created>
+<changed>1397954798</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397954798</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value>
+Experian is a provider of consumer and business credit reporting offering clients information, analytical tools and marketing services. Is this an API??
+</value>
+<format/>
+<safe_value>
+Experian is a provider of consumer and business credit reporting offering clients information, analytical tools and marketing services. Is this an API??
+</safe_value>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>13802</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Experian Business and Credit Information</value>
+<format/>
+<safe_value>Experian Business and Credit Information</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.experian.com/</value>
+<format/>
+<safe_value>http://www.experian.com/</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>
+http://www.experian.com/small-business/business-credit.jsp
+</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>11656</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at8550.png</uri>
+<filemime>image/png</filemime>
+<filesize>6649</filesize>
+<status>1</status>
+<timestamp>1389403734</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>128</width>
+<height>52</height>
+</image_dimensions>
+<alt>Experian Business and Credit Information</alt>
+<title>Experian Business and Credit Information</title>
+<width>128</width>
+<height>52</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>74052</fid>
+<uid>1</uid>
+<filename>api_favicon71042.ico</filename>
+<uri>public://apis/favicon/api_favicon71042.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>725</filesize>
+<status>1</status>
+<timestamp>1397954798</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by CE - Not an API</value>
+<format/>
+<safe_value>To Be Completed by CE - Not an API</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397954798</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397954798</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>71202</vid>
+<uid>61422</uid>
+<title>Nepton Evolution</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>71202</nid>
+<type>api</type>
+<language>und</language>
+<created>1350522692</created>
+<changed>1397955260</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397955260</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value>:</value>
+<format/>
+<safe_value>:</safe_value>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling>
+<und is_array="true">
+<item>
+<tid>21177</tid>
+</item>
+<item>
+<tid>21176</tid>
+</item>
+</und>
+</field_data_marshaling>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>35683</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Nepton Evolution</value>
+<format/>
+<safe_value>Nepton Evolution</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>nepton.fi</value>
+<format/>
+<safe_value>nepton.fi</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>
+https://evolution.nepton.fi/EvolutionManagementWebService.wsdl
+</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload/>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>74222</fid>
+<uid>1</uid>
+<filename>api_favicon71202.ico</filename>
+<uri>public://apis/favicon/api_favicon71202.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>585</filesize>
+<status>1</status>
+<timestamp>1397955260</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by CE - Delete</value>
+<format/>
+<safe_value>To Be Completed by CE - Delete</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397955260</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397955260</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>71205</vid>
+<uid>61422</uid>
+<title>Verdek</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>71205</nid>
+<type>api</type>
+<language>und</language>
+<created>1350525912</created>
+<changed>1397955267</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397955267</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling>
+<und is_array="true">
+<item>
+<tid>21177</tid>
+</item>
+<item>
+<tid>21176</tid>
+</item>
+</und>
+</field_data_marshaling>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>35683</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Verdek</value>
+<format/>
+<safe_value>Verdek</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>verdek-ev.com</value>
+<format/>
+<safe_value>verdek-ev.com</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>http://www.verdek-ev.com/verdekev/</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload/>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email>coulomb@verdek.com</email>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>74225</fid>
+<uid>1</uid>
+<filename>api_favicon71205.ico</filename>
+<uri>public://apis/favicon/api_favicon71205.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>726</filesize>
+<status>1</status>
+<timestamp>1397955267</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by CE -- wsdl looks like FedEx?</value>
+<format/>
+<safe_value>To Be Completed by CE -- wsdl looks like FedEx?</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397955267</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397955267</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>71367</vid>
+<uid>61422</uid>
+<title>Maxxo</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>71367</nid>
+<type>api</type>
+<language>und</language>
+<created>1351696568</created>
+<changed>1397955692</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397955692</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value>site down, check back</value>
+<format/>
+<safe_value>site down, check back</safe_value>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>6201</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Maxxo</value>
+<format/>
+<safe_value>Maxxo</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.maxxo.com/</value>
+<format/>
+<safe_value>http://www.maxxo.com/</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>http://www.maxxo.com/maxxo-api</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>11959</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at8875.png</uri>
+<filemime>image/png</filemime>
+<filesize>4439</filesize>
+<status>1</status>
+<timestamp>1389403760</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>120</width>
+<height>50</height>
+</image_dimensions>
+<alt>Maxxo</alt>
+<title>Maxxo</title>
+<width>120</width>
+<height>50</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email>info@maxxo.com</email>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category>
+<und is_array="true">
+<item>
+<tid>20171</tid>
+</item>
+</und>
+</field_article_primary_category>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>74388</fid>
+<uid>1</uid>
+<filename>api_favicon71367.ico</filename>
+<uri>public://apis/favicon/api_favicon71367.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>726</filesize>
+<status>1</status>
+<timestamp>1397955692</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by CE - Defunct</value>
+<format/>
+<safe_value>To Be Completed by CE - Defunct</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397955692</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397955692</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72098</vid>
+<uid>61422</uid>
+<title>Quttera WIS</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72098</nid>
+<type>api</type>
+<language>und</language>
+<created>1358788594</created>
+<changed>1397957855</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397957855</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value>
+http://www.squidoo.com/how-to-use-quttera-website-malware-scanner-api http://www.quttera.com/restapi Quttera WIS API enables third-party applications or developers to access Quttera WIS data and/or scan a URL programmatically via simple HTTP requests. The Quttera WIS API is designed primarily to help anyone who uses it to gather the information about the URL/website/domain safety. It allows both the query to Quttera database of already scanned URLs and a request to Quttera Investigation Engine to run the new scan.
+</value>
+<format/>
+<safe_value>
+http://www.squidoo.com/how-to-use-quttera-website-malware-scanner-api http://www.quttera.com/restapi Quttera WIS API enables third-party applications or developers to access Quttera WIS data and/or scan a URL programmatically via simple HTTP requests. The Quttera WIS API is designed primarily to help anyone who uses it to gather the information about the URL/website/domain safety. It allows both the query to Quttera database of already scanned URLs and a request to Quttera Investigation Engine to run the new scan.
+</safe_value>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>54204</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Quttera WIS</value>
+<format/>
+<safe_value>Quttera WIS</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.quttera.com/</value>
+<format/>
+<safe_value>http://www.quttera.com/</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>
+http://www.quttera.com/quttera-web-malware-scanner-api
+</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>12666</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at9606.png</uri>
+<filemime>image/png</filemime>
+<filesize>6678</filesize>
+<status>1</status>
+<timestamp>1389403826</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>110</width>
+<height>38</height>
+</image_dimensions>
+<alt>Quttera WIS</alt>
+<title>Quttera WIS</title>
+<width>110</width>
+<height>38</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>54204</target_id>
+</item>
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxcontactus@quttera.comzz</email>
+</item>
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category>
+<und is_array="true">
+<item>
+<tid>20004</tid>
+</item>
+</und>
+</field_article_primary_category>
+<field_article_secondary_category>
+<und is_array="true">
+<item>
+<tid>20373</tid>
+</item>
+</und>
+</field_article_secondary_category>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>75126</fid>
+<uid>0</uid>
+<filename>api_favicon72098.ico</filename>
+<uri>public://apis/favicon/api_favicon72098.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>923</filesize>
+<status>1</status>
+<timestamp>1397957855</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by CM</value>
+<format/>
+<safe_value>To Be Completed by CM</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397957855</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397957855</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72264</vid>
+<uid>61422</uid>
+<title>Surf Repair</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72264</nid>
+<type>api</type>
+<language>und</language>
+<created>1360638444</created>
+<changed>1397958325</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397958325</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value>http://surfrepair.net/api/1.0/</value>
+<format/>
+<safe_value>http://surfrepair.net/api/1.0/</safe_value>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>45261</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Surf Repair</value>
+<format/>
+<safe_value>Surf Repair</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>surfrepair.net</value>
+<format/>
+<safe_value>surfrepair.net</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>http://surfrepair.net/api/1.0/doc</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload/>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>75301</fid>
+<uid>0</uid>
+<filename>api_favicon72264.ico</filename>
+<uri>public://apis/favicon/api_favicon72264.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>726</filesize>
+<status>1</status>
+<timestamp>1397958325</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To be completed by PT DEFUNCT</value>
+<format/>
+<safe_value>To be completed by PT DEFUNCT</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397958325</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397958325</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72413</vid>
+<uid>61422</uid>
+<title>CloudBus</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72413</nid>
+<type>api</type>
+<language>und</language>
+<created>1362185837</created>
+<changed>1397958730</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397958730</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>31090</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>CloudBus</value>
+<format/>
+<safe_value>CloudBus</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.cloudbus.org</value>
+<format/>
+<safe_value>http://www.cloudbus.org</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>http://www.cloudbus.org/gridsim/doc/api/</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value>http://buyya.wordpress.com/</value>
+<format/>
+<safe_value>http://buyya.wordpress.com/</safe_value>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value>http://buyya.wordpress.com/feed/</value>
+<format/>
+<safe_value>http://buyya.wordpress.com/feed/</safe_value>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value>http://www.cloudbus.org/press.html</value>
+<format/>
+<safe_value>http://www.cloudbus.org/press.html</safe_value>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>12974</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at9921.png</uri>
+<filemime>image/png</filemime>
+<filesize>10883</filesize>
+<status>1</status>
+<timestamp>1389403852</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>130</width>
+<height>54</height>
+</image_dimensions>
+<alt>CloudBus</alt>
+<title>CloudBus</title>
+<width>130</width>
+<height>54</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category>
+<und is_array="true">
+<item>
+<tid>20029</tid>
+</item>
+</und>
+</field_article_primary_category>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>75450</fid>
+<uid>0</uid>
+<filename>api_favicon72413.ico</filename>
+<uri>public://apis/favicon/api_favicon72413.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>726</filesize>
+<status>1</status>
+<timestamp>1397958730</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by CM - Defunct</value>
+<format/>
+<safe_value>To Be Completed by CM - Defunct</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397958730</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397958730</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72429</vid>
+<uid>61422</uid>
+<title>Vanguard Bus Analyzer</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72429</nid>
+<type>api</type>
+<language>und</language>
+<created>1362374147</created>
+<changed>1397958771</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397958771</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value>
+Curtiss-Wright Controls Defense Solutions is a developer of electronic modules and systems for defense applications. The companyâ€™s modules and systems are currently deployed in a wide range of demanding defense & aerospace applications including C4ISR systems, unmanned subsystems, mission computing, fire control, turret stabilization, and recording & storage solutions.
+</value>
+<format/>
+<safe_value>
+Curtiss-Wright Controls Defense Solutions is a developer of electronic modules and systems for defense applications. The companyâ€™s modules and systems are currently deployed in a wide range of demanding defense &amp; aerospace applications including C4ISR systems, unmanned subsystems, mission computing, fire control, turret stabilization, and recording &amp; storage solutions.
+</safe_value>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>31090</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Vanguard Bus Analyzer</value>
+<format/>
+<safe_value>Vanguard Bus Analyzer</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.cwcdefense.com</value>
+<format/>
+<safe_value>http://www.cwcdefense.com</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>
+http://www.cwcdefense.com/products/analyzers/api-interface.html
+</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value>recorder_support@curtisswright.com</value>
+<format/>
+<safe_value>recorder_support@curtisswright.com</safe_value>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value>
+http://www.cwcdefense.com/media-center/press-release/
+</value>
+<format/>
+<safe_value>
+http://www.cwcdefense.com/media-center/press-release/
+</safe_value>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>12990</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at9937.png</uri>
+<filemime>image/png</filemime>
+<filesize>12207</filesize>
+<status>1</status>
+<timestamp>1389403852</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>130</width>
+<height>55</height>
+</image_dimensions>
+<alt>Vanguard Bus Analyzer</alt>
+<title>Vanguard Bus Analyzer</title>
+<width>130</width>
+<height>55</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email>defensesales@curtisswright.com</email>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>1</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value>XML-RPC</value>
+<format/>
+<safe_value>XML-RPC</safe_value>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>75466</fid>
+<uid>0</uid>
+<filename>api_favicon72429.ico</filename>
+<uri>public://apis/favicon/api_favicon72429.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>729</filesize>
+<status>1</status>
+<timestamp>1397958771</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by CM</value>
+<format/>
+<safe_value>To Be Completed by CM</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value>Yes</value>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397958771</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397958771</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72488</vid>
+<uid>61422</uid>
+<title>TrainingRocket</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72488</nid>
+<type>api</type>
+<language>und</language>
+<created>1363046412</created>
+<changed>1397958921</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397958921</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>31090</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>TrainingRocket</value>
+<format/>
+<safe_value>TrainingRocket</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.trainingrocket.com</value>
+<format/>
+<safe_value>http://www.trainingrocket.com</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>
+http://docs.trainingrocket.com/display/TrainingRocket/Release+Notes+3.0#ReleaseN...
+</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>13047</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at9996.png</uri>
+<filemime>image/png</filemime>
+<filesize>5635</filesize>
+<status>1</status>
+<timestamp>1389403861</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>130</width>
+<height>25</height>
+</image_dimensions>
+<alt>TrainingRocket</alt>
+<title>TrainingRocket</title>
+<width>130</width>
+<height>25</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>75526</fid>
+<uid>0</uid>
+<filename>api_favicon72488.ico</filename>
+<uri>public://apis/favicon/api_favicon72488.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>656</filesize>
+<status>1</status>
+<timestamp>1397958921</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by CM - Defunct</value>
+<format/>
+<safe_value>To Be Completed by CM - Defunct</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397958921</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397958921</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72492</vid>
+<uid>61422</uid>
+<title>Nektra Diavare</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72492</nid>
+<type>api</type>
+<language>und</language>
+<created>1363053291</created>
+<changed>1397958931</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397958931</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value>Nektra API Suite</value>
+<format/>
+<safe_value>Nektra API Suite</safe_value>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>31090</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Nektra Diavare</value>
+<format/>
+<safe_value>Nektra Diavare</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value>http://forum.nektra.com/forum/</value>
+<format/>
+<safe_value>http://forum.nektra.com/forum/</safe_value>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.nektra.com</value>
+<format/>
+<safe_value>http://www.nektra.com</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>
+http://www.nektra.com/products/deviare-api-hook-windows/
+</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value>http://blog.nektra.com/main/</value>
+<format/>
+<safe_value>http://blog.nektra.com/main/</safe_value>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value>https://twitter.com/nektra</value>
+<format/>
+<safe_value>https://twitter.com/nektra</safe_value>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>13051</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at10000.png</uri>
+<filemime>image/png</filemime>
+<filesize>4280</filesize>
+<status>1</status>
+<timestamp>1389403861</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>130</width>
+<height>34</height>
+</image_dimensions>
+<alt>Nektra Diavare</alt>
+<title>Nektra Diavare</title>
+<width>130</width>
+<height>34</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email>http://www.nektra.com/contact/</email>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>75530</fid>
+<uid>0</uid>
+<filename>api_favicon72492.ico</filename>
+<uri>public://apis/favicon/api_favicon72492.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>618</filesize>
+<status>1</status>
+<timestamp>1397958931</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by CM - Defunct</value>
+<format/>
+<safe_value>To Be Completed by CM - Defunct</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397958931</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397958931</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72528</vid>
+<uid>61422</uid>
+<title>Jarloo Google Stock</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72528</nid>
+<type>api</type>
+<language>und</language>
+<created>1363237394</created>
+<changed>1397959026</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397959026</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>31090</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Jarloo Google Stock</value>
+<format/>
+<safe_value>Jarloo Google Stock</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.jarloo.com</value>
+<format/>
+<safe_value>http://www.jarloo.com</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>http://www.jarloo.com/google-stock-api/</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>13086</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at10036.png</uri>
+<filemime>image/png</filemime>
+<filesize>12006</filesize>
+<status>1</status>
+<timestamp>1389403861</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>130</width>
+<height>57</height>
+</image_dimensions>
+<alt>Jarloo Google Stock</alt>
+<title>Jarloo Google Stock</title>
+<width>130</width>
+<height>57</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category>
+<und is_array="true">
+<item>
+<tid>19968</tid>
+</item>
+</und>
+</field_article_primary_category>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>75566</fid>
+<uid>0</uid>
+<filename>api_favicon72528.ico</filename>
+<uri>public://apis/favicon/api_favicon72528.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>91</filesize>
+<status>1</status>
+<timestamp>1397959026</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed by CM - Defunct</value>
+<format/>
+<safe_value>To Be Completed by CM - Defunct</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397959026</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397959026</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72574</vid>
+<uid>61422</uid>
+<title>BitParking</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72574</nid>
+<type>api</type>
+<language>und</language>
+<created>1363755958</created>
+<changed>1397959141</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397959141</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>31090</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>BitParking</value>
+<format/>
+<safe_value>BitParking</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.bitparking.com</value>
+<format/>
+<safe_value>http://www.bitparking.com</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>https://exchange.bitparking.com/api</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>13131</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at10082.png</uri>
+<filemime>image/png</filemime>
+<filesize>3686</filesize>
+<status>1</status>
+<timestamp>1389403869</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>130</width>
+<height>29</height>
+</image_dimensions>
+<alt>BitParking</alt>
+<title>BitParking</title>
+<width>130</width>
+<height>29</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>75623</fid>
+<uid>0</uid>
+<filename>api_favicon72574.ico</filename>
+<uri>public://apis/favicon/api_favicon72574.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>726</filesize>
+<status>1</status>
+<timestamp>1397959141</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed CM - Defunct</value>
+<format/>
+<safe_value>To Be Completed CM - Defunct</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397959141</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397959141</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72740</vid>
+<uid>61422</uid>
+<title>Experience</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72740</nid>
+<type>api</type>
+<language>und</language>
+<created>1367003905</created>
+<changed>1397959623</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397959623</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value>
+The Experience API is a service that allows for statements of experience to be delivered to and stored securely in a Learning Record Store (LRS). These statements of experience are typically learning experiences, but the API can address statements of any kind of experience. The Experience API is dependent on Activity Providers to create and track these learning experiences; this specification provides a data model and associated components on how to accomplish these tasks. Specifically, the Experience API provides: The structure and definition of Statement, State, learner, Activity and Objects, which are the means by which experiences are conveyed by a Activity Provider. Data Transfer methods for the storage and retrieval (but not validation) of these Objects to/from a Learning Record Store. Note that the systems storing or retrieving records need not be Activity Providers. LRSs may communicate with other LRSs, or reporting systems. Security methods allowing for the trusted exchange of information between the Learning Record Store and trusted sources. The Experience API is the first of many envisioned technologies that will enable a richer architecture of online learning and training. Authentication services, querying services, visualization services, and personal data services are some examples of additional technologies which the Experience API is designed to support. While the implementation details of these services are not specified here, the Experience API is designed with this larger architectural vision in mind.
+</value>
+<format/>
+<safe_value>
+The Experience API is a service that allows for statements of experience to be delivered to and stored securely in a Learning Record Store (LRS). These statements of experience are typically learning experiences, but the API can address statements of any kind of experience. The Experience API is dependent on Activity Providers to create and track these learning experiences; this specification provides a data model and associated components on how to accomplish these tasks. Specifically, the Experience API provides: The structure and definition of Statement, State, learner, Activity and Objects, which are the means by which experiences are conveyed by a Activity Provider. Data Transfer methods for the storage and retrieval (but not validation) of these Objects to/from a Learning Record Store. Note that the systems storing or retrieving records need not be Activity Providers. LRSs may communicate with other LRSs, or reporting systems. Security methods allowing for the trusted exchange of information between the Learning Record Store and trusted sources. The Experience API is the first of many envisioned technologies that will enable a richer architecture of online learning and training. Authentication services, querying services, visualization services, and personal data services are some examples of additional technologies which the Experience API is designed to support. While the implementation details of these services are not specified here, the Experience API is designed with this larger architectural vision in mind.
+</safe_value>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling>
+<und is_array="true">
+<item>
+<tid>21173</tid>
+</item>
+<item>
+<tid>21190</tid>
+</item>
+</und>
+</field_data_marshaling>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>0</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Experience</value>
+<format/>
+<safe_value>Experience</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.adlnet.gov/</value>
+<format/>
+<safe_value>http://www.adlnet.gov/</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>
+https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md
+</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value>http://www.adlnet.gov/blog</value>
+<format/>
+<safe_value>http://www.adlnet.gov/blog</safe_value>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload/>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>59051</target_id>
+</item>
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxaaron.silvers.ctr@adlnet.govzz</email>
+</item>
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category>
+<und is_array="true">
+<item>
+<tid>19963</tid>
+</item>
+</und>
+</field_article_primary_category>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>75789</fid>
+<uid>0</uid>
+<filename>api_favicon72740.ico</filename>
+<uri>public://apis/favicon/api_favicon72740.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>589</filesize>
+<status>1</status>
+<timestamp>1397959623</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed CE</value>
+<format/>
+<safe_value>To Be Completed CE</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model>
+<und is_array="true">
+<item>
+<value>Oauth 2.0</value>
+<format/>
+<safe_value>Oauth 2.0</safe_value>
+</item>
+</und>
+</field_api_other_auth_model>
+<cid>0</cid>
+<last_comment_timestamp>1397959623</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397959623</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72746</vid>
+<uid>61422</uid>
+<title>Uniiverse</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72746</nid>
+<type>api</type>
+<language>und</language>
+<created>1367005753</created>
+<changed>1397959641</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397959641</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value>
+Uniiverse is the local marketplace to share and connect in real life. Please contact support@uniiverse.com if you are interested in using the Uniiverse API to create or get listings. No mention of API on the site. May want to contact the provider to see if they have a url to point at that mentions the API. **UPDATE** Reached out for documentation or a URL on 11/5/13. - CM
+</value>
+<format/>
+<safe_value>
+Uniiverse is the local marketplace to share and connect in real life. Please contact support@uniiverse.com if you are interested in using the Uniiverse API to create or get listings. No mention of API on the site. May want to contact the provider to see if they have a url to point at that mentions the API. **UPDATE** Reached out for documentation or a URL on 11/5/13. - CM
+</safe_value>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>58778</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>Uniiverse</value>
+<format/>
+<safe_value>Uniiverse</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.uniiverse.com/</value>
+<format/>
+<safe_value>http://www.uniiverse.com/</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>https://www.uniiverse.com</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>13295</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at10254.png</uri>
+<filemime>image/png</filemime>
+<filesize>8212</filesize>
+<status>1</status>
+<timestamp>1389403877</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>128</width>
+<height>37</height>
+</image_dimensions>
+<alt>Uniiverse</alt>
+<title>Uniiverse</title>
+<width>128</width>
+<height>37</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>58778</target_id>
+</item>
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxdev@uniiverse.comzz</email>
+</item>
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category>
+<und is_array="true">
+<item>
+<tid>20087</tid>
+</item>
+</und>
+</field_article_primary_category>
+<field_article_secondary_category>
+<und is_array="true">
+<item>
+<tid>20090</tid>
+</item>
+<item>
+<tid>20255</tid>
+</item>
+<item>
+<tid>20286</tid>
+</item>
+<item>
+<tid>20296</tid>
+</item>
+</und>
+</field_article_secondary_category>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>75795</fid>
+<uid>0</uid>
+<filename>api_favicon72746.ico</filename>
+<uri>public://apis/favicon/api_favicon72746.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>710</filesize>
+<status>1</status>
+<timestamp>1397959641</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed CM</value>
+<format/>
+<safe_value>To Be Completed CM</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397959641</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397959641</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>72999</vid>
+<uid>61422</uid>
+<title>WunWun Power</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>72999</nid>
+<type>api</type>
+<language>und</language>
+<created>1370728935</created>
+<changed>1397960391</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397960391</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>31336</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>WunWun Power</value>
+<format/>
+<safe_value>WunWun Power</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>wunwun.com</value>
+<format/>
+<safe_value>wunwun.com</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>http://wunwun.com/power</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload/>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>76048</fid>
+<uid>0</uid>
+<filename>api_favicon72999.ico</filename>
+<uri>public://apis/favicon/api_favicon72999.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>273</filesize>
+<status>1</status>
+<timestamp>1397960391</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To be completed MC - not up yet</value>
+<format/>
+<safe_value>To be completed MC - not up yet</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397960391</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397960391</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>73129</vid>
+<uid>61422</uid>
+<title>MetaLair</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>73129</nid>
+<type>api</type>
+<language>und</language>
+<created>1371968209</created>
+<changed>1397960752</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397960752</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>31090</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>MetaLair</value>
+<format/>
+<safe_value>MetaLair</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.metalair.org</value>
+<format/>
+<safe_value>http://www.metalair.org</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>http://www.metalair.org/developers.php</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>76245</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at10637.png</uri>
+<filemime>image/png</filemime>
+<filesize>3691</filesize>
+<status>1</status>
+<timestamp>1397960752</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>130</width>
+<height>37</height>
+</image_dimensions>
+<alt>MetaLair</alt>
+<title>MetaLair</title>
+<width>130</width>
+<height>37</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>76246</fid>
+<uid>0</uid>
+<filename>api_favicon73129.ico</filename>
+<uri>public://apis/favicon/api_favicon73129.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>726</filesize>
+<status>1</status>
+<timestamp>1397960752</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed CM</value>
+<format/>
+<safe_value>To Be Completed CM</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<cid>0</cid>
+<last_comment_timestamp>1397960752</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397960752</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+<item>
+<vid>73202</vid>
+<uid>61422</uid>
+<title>PDF-Ace</title>
+<log/>
+<status>0</status>
+<comment>2</comment>
+<promote>0</promote>
+<sticky>0</sticky>
+<nid>73202</nid>
+<type>api</type>
+<language>und</language>
+<created>1372758708</created>
+<changed>1397960970</changed>
+<tnid>0</tnid>
+<translate>0</translate>
+<revision_timestamp>1397960970</revision_timestamp>
+<revision_uid>61422</revision_uid>
+<field_api_endpoint>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_endpoint>
+<field_api_description>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_description>
+<field_data_marshaling/>
+<field_related_to/>
+<field_differentiators/>
+<field_submitterid>
+<und is_array="true">
+<item>
+<target_id>31090</target_id>
+</item>
+</und>
+</field_submitterid>
+<field_deadpool_checkbox>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_deadpool_checkbox>
+<field_apihub_url/>
+<field_top_match_search_text>
+<und is_array="true">
+<item>
+<value>PDF-Ace</value>
+<format/>
+<safe_value>PDF-Ace</safe_value>
+</item>
+</und>
+</field_top_match_search_text>
+<field_ssl_support>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_ssl_support>
+<field_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_kits>
+<field_forum_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_forum_api>
+<field_provider_of_api>
+<und is_array="true">
+<item>
+<value>http://www.pdf-ace.com</value>
+<format/>
+<safe_value>http://www.pdf-ace.com</safe_value>
+</item>
+</und>
+</field_provider_of_api>
+<field_api_home_page>
+<und is_array="true">
+<item>
+<url>http://pdf-ace.com/html-to-pdf-api/</url>
+<title/>
+<attributes/>
+</item>
+</und>
+</field_api_home_page>
+<field_api_admin_comments>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_admin_comments>
+<field_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_twitter_url>
+<field_api_developer_support>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_developer_support>
+<field_api_console_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_console_url>
+<field_api_minor_edit/>
+<field_changelog/>
+<field_client_install_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_client_install_required>
+<field_read_only_without_login>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_read_only_without_login>
+<field_community_api_kits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_community_api_kits>
+<field_api_blog_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog_rss_api>
+<field_api_site_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog>
+<field_api_site_blog_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_blog_rss>
+<field_api_forum_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_forum_rss_api>
+<field_api_announcement_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_url>
+<field_api_site_twitter_url>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_site_twitter_url>
+<field_api_gallery_rss_api>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery_rss_api>
+<field_image_upload>
+<und is_array="true">
+<item>
+<fid>76388</fid>
+<uid>1</uid>
+<filename/>
+<uri>public://apis/at10710.png</uri>
+<filemime>image/png</filemime>
+<filesize>5846</filesize>
+<status>1</status>
+<timestamp>1397960970</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>130</width>
+<height>30</height>
+</image_dimensions>
+<alt>PDF-Ace</alt>
+<title>PDF-Ace</title>
+<width>130</width>
+<height>30</height>
+</item>
+</und>
+</field_image_upload>
+<field_api_contact_email>
+<und is_array="true">
+<item>
+<email/>
+</item>
+</und>
+</field_api_contact_email>
+<field_are_you_the_owner/>
+<field_other_data_marshaling>
+<und is_array="true">
+<item>
+<value>0</value>
+</item>
+</und>
+</field_other_data_marshaling>
+<field_data_marshaling_options>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_data_marshaling_options>
+<field_api_author_informaiton>
+<und is_array="true">
+<item>
+<target_id>61422</target_id>
+</item>
+</und>
+</field_api_author_informaiton>
+<field_authors_for_this_api>
+<und is_array="true">
+<item>
+<email>xxpwtempuser@gmail.comzz</email>
+</item>
+</und>
+</field_authors_for_this_api>
+<field_api_authentication_model/>
+<taxonomy_forums/>
+<field_article_primary_category/>
+<field_article_secondary_category/>
+<field_article_related_companies/>
+<field_popularity/>
+<field_popularity_updated/>
+<field_content_type_group>
+<und is_array="true">
+<item>
+<value>APIs</value>
+<format/>
+<safe_value>APIs</safe_value>
+</item>
+</und>
+</field_content_type_group>
+<field_editor_assigned/>
+<field_api_favicon>
+<und is_array="true">
+<item>
+<fid>76389</fid>
+<uid>0</uid>
+<filename>api_favicon73202.ico</filename>
+<uri>public://apis/favicon/api_favicon73202.ico</uri>
+<filemime>image/vnd.microsoft.icon</filemime>
+<filesize>260</filesize>
+<status>1</status>
+<timestamp>1397960970</timestamp>
+<type>image</type>
+<image_dimensions>
+<width>16</width>
+<height>16</height>
+</image_dimensions>
+<alt/>
+<title/>
+<width/>
+<height/>
+</item>
+</und>
+</field_api_favicon>
+<field_api_summary>
+<und is_array="true">
+<item>
+<value>To Be Completed CM</value>
+<format/>
+<safe_value>To Be Completed CM</safe_value>
+</item>
+</und>
+</field_api_summary>
+<field_api_announcement_rss>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_announcement_rss>
+<field_api_blog>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_blog>
+<field_api_gallery>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_gallery>
+<field_api_signup_requirements>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_signup_requirements>
+<field_api_developer_key_required>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_developer_key_required>
+<field_api_account_with_service>
+<und is_array="true">
+<item>
+<value/>
+</item>
+</und>
+</field_api_account_with_service>
+<field_api_commercial_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_commercial_licensing>
+<field_api_non_commercial_licen>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_non_commercial_licen>
+<field_api_managed_by>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_managed_by>
+<field_api_data_licensing>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_data_licensing>
+<field_api_usage_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_fees>
+<field_api_program_fees>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_program_fees>
+<field_api_certification_program>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_certification_program>
+<field_api_usage_limits>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_usage_limits>
+<field_api_terms_of_service>
+<und is_array="true">
+<item>
+<value/>
+<format/>
+<safe_value/>
+</item>
+</und>
+</field_api_terms_of_service>
+<field_api_developer_portal>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_portal>
+<field_api_documentation>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_documentation>
+<field_api_sample_calls>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_sample_calls>
+<field_api_developer_events>
+<und is_array="true">
+<item>
+<value>---</value>
+</item>
+</und>
+</field_api_developer_events>
+<field_api_business_models/>
+<field_api_other_auth_model/>
+<metatags/>
+<cid>0</cid>
+<last_comment_timestamp>1397960970</last_comment_timestamp>
+<last_comment_name/>
+<last_comment_uid>61422</last_comment_uid>
+<comment_count>0</comment_count>
+<name>pwtempuser</name>
+<picture>0</picture>
+<data>
+a:5:{s:16:"ckeditor_default";s:1:"t";s:20:"ckeditor_show_toggle";s:1:"t";s:14:"ckeditor_width";s:4:"100%";s:13:"ckeditor_lang";s:2:"en";s:18:"ckeditor_auto_lang";s:1:"t";}
+</data>
+<workflow>11</workflow>
+<workflow_stamp>1397960970</workflow_stamp>
+<workflow_state_name>NEW</workflow_state_name>
+<workflow_wid>4</workflow_wid>
+<published_at/>
+</item>
+</result>
