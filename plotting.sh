@@ -1,0 +1,3 @@
+python plot.py -li mashupsall_toplot.json -m black- -logx 1 -logy 1 -xlim 1 500 -ylim 1e-6 1 -t "Degree distribution of mashups registered in Programmable Web" -xl 'In-degree $k_{in}$' -yl 'Probability distribution $P(k_{in})$' -axisfsize large
+python plot.py -li mashupsall_toplot.json -m black- -logx 1 -logy 1 -xlim 1 3000 -ylim 4e-7 1 -t "Degree distribution of mashups registered in Programmable Web" -xl 'In-degree $k_{in}$' -yl 'Probability distribution $P(k_{in})$' -axisfsize large
+python plot.py -li mashupsall_toplot.json -m black- -logx 1 -logy 1 -t "Degree distribution of mashups registered in Programmable Web" -xl 'In-degree $k_{in}$' -yl 'Probability distribution $P(k_{in})$' -axisfsize large

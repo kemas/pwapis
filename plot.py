@@ -86,8 +86,6 @@ def drawloglogdist(ds, xlabel, ylabel, title, labels, markset='var', filename=No
     itm = iter(MARKERS[markset])
     j = 0
     for degrees, maxdegree in ds:
-        print degrees
-        print maxdegree
         lbins = logbins(maxdegree, amin=0, base=LOGBINBASE)
         y, bins = np.histogram(degrees, bins=lbins, density=density)
         #y, bins = np.histogram(degrees, bins=100, density=density)
