@@ -61,12 +61,43 @@ def load(filename):
 
     return obj
 
+def calcdepth(dictdepth, vid, apis):
+    # returns the depth of vid or 
+    # calculate recursively through its children
+
+    if dictdepth.has_key(vid):
+        return dictdepth[vid]
+
+    # else, depth for vid has not been calculated
+
+    children = apis[vid][3]
+    viddepth = 0; vidmeandepth = 0
+
+    if len(children):
+        # vid has child
+        maxdepth = 0; totmeandepth = 0.0
+        for compvid in children:
+            # calculate reccursively
+            d, m =  calcdepth(dictdepth, compvid, apis)
+
+            if d > maxdepth:
+                maxdepth = d
+
+            totmeandepth += m 
+
+        viddepth = maxdepth
+        vidmeandepth = totmeandepth / len(children)
+
+    # add to depth
+    dictdepth[vid] = [viddepth + 1, vidmeandepth + 1]
+
+    return dictdepth[vid]
+
 def readdeg(obj):
-    apis = {} # api and mashups {id:[indegree, outdegree, name, [parent, ...], [child, ...]], ...}
+    apis = {} # api and mashups {id:[indegree, outdegree, name, [child, ...]], ...}
 
     mashups = MashupsJSON(obj)
     items = mashups.get_items()
-#    children = {} # {childid:[parentid, ...], ...}
 
     for item in items:
         vid = mashups.get_vid(item)
@@ -85,12 +116,6 @@ def readdeg(obj):
             apis[vid][1] += len(lscomps)
 
             for compvid in lscomps:
-#                # add compvid to children if does not exist
-#                if not children.has_key(compvid):
-#                    children[compvid] = []
-#                # add vid to the child's parent list
-#                children[compvid].append(vid)
-
                 if not apis.has_key(compvid):
                     # compvid not found, add to the dictionary
                     apis[compvid] = [0, 0, None, [], []]
@@ -98,10 +123,8 @@ def readdeg(obj):
                 # increment the indegree
                 apis[compvid][0] += 1
 
-                # add compvid's parent
-                apis[compvid][3].append(vid)
                 # add vid's child
-                apis[vid][4].append(compvid)
+                apis[vid][3].append(compvid)
 
     # build result
     maxdeg = 0; maxdegid = None
@@ -109,7 +132,7 @@ def readdeg(obj):
     indegree = []
     outdegree = []
     mashupname = []
-    depth = {} # vid:[depth, meandepth]
+    dictdepth = {} # vid: [depth, meandepth]
     maxdepth = 0; avgdepth = 0.0
     avgmeandepth = 0.0
 
@@ -117,31 +140,32 @@ def readdeg(obj):
         ind = apis[key][0]
 
         if ind > maxdeg:
-            maxdeg = degree
+            maxdeg = ind
             maxdegid = key
 
         indegree.append(ind)
         outdegree.append(apis[key][1])
         mashupname.append(apis[key][2])
 
-        if not depth.has_key(key):
-            # calculate depth recursively to parents and children
-            pass
+        # calculate depth recursively to parents and children
+        # or do nothing (only to return the values) if depth for current api (key) has been defined
+        calcdepth(dictdepth, key, apis)
+
+    depth = [d[0] for d in dictdepth.values()]
+    meandepth = [d[1] for d in dictdepth.values()]
 
     # return the degrees as json readable format for pyplot, and max degree id
-    return {'indegree':indegree
-        , 'outdegree':outdegree
-        , 'mashupid':mashupid
-        , 'mashupname':mashupname
-        , 'maxindegree':maxdeg
-        , 'maxindegreeid':maxdegid
-        , 'depth':depth.values()
-        , 'maxdepth':maxdepth
-        , 'avgdepth':avgdepth
-        , 'meandepth':meandepth
-        , 'avgmeandepth':avgmeandepth}
-
-### depth
+    return {'indegree': indegree
+        , 'outdegree': outdegree
+        , 'mashupid': mashupid
+        , 'mashupname': mashupname
+        , 'maxindegree': maxdeg
+        , 'maxindegreeid': maxdegid
+        , 'depth': depth
+        , 'maxdepth': max(depth)
+        , 'avgdepth': sum(depth) / float(len(depth))
+        , 'meandepth': meandepth
+        , 'avgmeandepth': sum(meandepth) / float(len(meandepth))}
 
 def savetofile(ds, filename):
     with open(filename, 'w') as f:

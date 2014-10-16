@@ -82,4 +82,21 @@ return
 </result>, <json:options><json:format value="jsonml"/></json:options>)
 return file:write('pwapis/mashupsall.json', $json)
 
+maxindegree 2555
+number of indegree elements 19366
+sum of indegree 15834
+number of non-zero indegree elements 1459
 
+number of outdegree 19366
+sum of outdegree 15834
+number of non-zero outdegree elements 7513
+<dep> 15834 / 19366 = 0.8176185066611588
+<dep> from non-zero indegree elements 15834 / 7513 = 2.1075469186742977
+
+* mashupsall.json
+number of mashups 7606
+number of apis 11553
+total 19159
+
+There are mashup component ids (targets) in mashupsall.json that are not defined
+That is why the number of apis in mashupsall_toplot.json > mashupsall.json
