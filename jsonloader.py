@@ -2,6 +2,12 @@ import sys
 import json
 import unicodecsv
 
+IDX_IND = 0
+IDX_OUTD = 1
+IDX_MASHUPNAME = 2
+IDX_MASHUPTYPE = 3
+IDX_CHILDREN = 4
+
 class MashupsJSON:
     def __init__(self, obj):
         self._ID_ATTRIBUTES = 1
@@ -17,6 +23,9 @@ class MashupsJSON:
 
     def get_item(self, idx):
         return self._items[idx]
+
+    def del_item(self, item):
+        return self._items.remove(item)
 
     def get_vid(self, item):
         return item[self._ID_ATTRIBUTES]['vid']
@@ -55,6 +64,20 @@ class MashupsJSON:
                 pass
         return ls
 
+    def removeredapis(self):
+        # remove redundant apis
+        vids = []
+        for item in self.get_items():
+            vid = self.get_vid(item)
+
+            if vid in vids:
+                # remove from items
+                self.del_item(item)
+            else:
+                vids.append(vid)
+
+        return vids
+
 def load(filename):
     with open(filename) as f:
         obj = json.load(f)
@@ -70,7 +93,7 @@ def calcdepth(dictdepth, vid, apis):
 
     # else, depth for vid has not been calculated
 
-    children = apis[vid][3]
+    children = apis[vid][IDX_CHILDREN]
     viddepth = 0; vidmeandepth = 0
 
     if len(children):
@@ -94,7 +117,7 @@ def calcdepth(dictdepth, vid, apis):
     return dictdepth[vid]
 
 def readdeg(obj):
-    apis = {} # api and mashups {id:[indegree, outdegree, name, [child, ...]], ...}
+    apis = {} # api and mashups {id:[indegree, outdegree, name, mashuptype, [child, ...]], ...}
 
     mashups = MashupsJSON(obj)
     items = mashups.get_items()
@@ -104,27 +127,30 @@ def readdeg(obj):
 
         if not apis.has_key(vid):
             # vid not found, add to the dictionary
-            apis[vid] = [0, 0, mashups.get_title(item), [], []]
-        elif not apis[vid][2]:
+            apis[vid] = [0, 0, mashups.get_title(item), mashups.is_mashup(item), []]
+
+        elif not apis[vid][IDX_MASHUPNAME]:
             # vid is in the dictionary but name/title is not defined
-            apis[vid][2] = mashups.get_title(item)
+            apis[vid][IDX_MASHUPNAME] = mashups.get_title(item)
+            # also the type
+            apis[vid][IDX_MASHUPTYPE] = mashups.is_mashup(item)
 
         if mashups.is_mashup(item):
             # mashup components 
             lscomps = mashups.get_lscompvid(item)
             # increment the outdegree
-            apis[vid][1] += len(lscomps)
+            apis[vid][IDX_OUTD] += len(lscomps)
 
             for compvid in lscomps:
                 if not apis.has_key(compvid):
                     # compvid not found, add to the dictionary
-                    apis[compvid] = [0, 0, None, [], []]
+                    apis[compvid] = [0, 0, None, None, []]
 
                 # increment the indegree
-                apis[compvid][0] += 1
+                apis[compvid][IDX_IND] += 1
 
                 # add vid's child
-                apis[vid][3].append(compvid)
+                apis[vid][IDX_CHILDREN].append(compvid)
 
     # build result
     maxdeg = 0; maxdegid = None
@@ -132,20 +158,22 @@ def readdeg(obj):
     indegree = []
     outdegree = []
     mashupname = []
+    mashuptype = []
     dictdepth = {} # vid: [depth, meandepth]
     maxdepth = 0; avgdepth = 0.0
     avgmeandepth = 0.0
 
     for key in mashupid:
-        ind = apis[key][0]
+        ind = apis[key][IDX_IND]
 
         if ind > maxdeg:
             maxdeg = ind
             maxdegid = key
 
         indegree.append(ind)
-        outdegree.append(apis[key][1])
-        mashupname.append(apis[key][2])
+        outdegree.append(apis[key][IDX_OUTD])
+        mashupname.append(apis[key][IDX_MASHUPNAME])
+        mashuptype.append(apis[key][IDX_MASHUPTYPE])
 
         # calculate depth recursively to parents and children
         # or do nothing (only to return the values) if depth for current api (key) has been defined
@@ -159,6 +187,7 @@ def readdeg(obj):
         , 'outdegree': outdegree
         , 'mashupid': mashupid
         , 'mashupname': mashupname
+        , 'mashuptype': mashuptype # 1 = mashup, 0 = api
         , 'maxindegree': maxdeg
         , 'maxindegreeid': maxdegid
         , 'depth': depth
@@ -191,6 +220,28 @@ def dstocsv(ds, filename):
             row = [ds['mashupid'][i], ds['mashupname'][i] or '', str(ds['indegree'][i])]
             print row
             csvwr.writerow(row)
+
+def checkredundant(fsource, fred):
+    # retrieve multiple entry apis in fsource and write it to fred
+
+    with open(fsource) as fs:
+        osource = json.load(fs)
+
+    ored = []
+    vids = []
+
+    for api in osource[1:]:
+        vid = api[1]['vid']
+
+        if vid in vids:
+            ored.append(api)
+        else:
+            vids.append(vid)
+
+    if ored > 1:
+        # ored != []
+        with open(fred, 'w') as fr:
+            json.dump(ored, fr)
 
 def main(argv):
     fmashupsjson = argv[1]
