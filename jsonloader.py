@@ -24,8 +24,8 @@ class MashupsJSON:
     def get_item(self, idx):
         return self._items[idx]
 
-    def del_item(self, item):
-        return self._items.remove(item)
+    def del_item(self, idx):
+        return self._items.pop(idx)
 
     def get_vid(self, item):
         return item[self._ID_ATTRIBUTES]['vid']
@@ -65,16 +65,20 @@ class MashupsJSON:
         return ls
 
     def removeredapis(self):
-        # remove redundant apis
+        # "remove" redundant apis
+        # actually sets the _items with unique list
         vids = []
-        for item in self.get_items():
+        uniqitems = []
+
+        for item in self._items:
             vid = self.get_vid(item)
 
-            if vid in vids:
-                # remove from items
-                self.del_item(item)
-            else:
+            if vid not in vids:
                 vids.append(vid)
+                uniqitems.append(item)
+
+        # set items
+        self._items = uniqitems
 
         return vids
 
@@ -120,6 +124,12 @@ def readdeg(obj):
     apis = {} # api and mashups {id:[indegree, outdegree, name, mashuptype, [child, ...]], ...}
 
     mashups = MashupsJSON(obj)
+    # clean from redundant apis
+    print 'len before cleaning %d' % len(mashups.get_items())
+    reds = mashups.removeredapis()
+    print 'unique apis %d' % len(reds)
+    print 'len after cleaning %d' % len(mashups.get_items())
+
     items = mashups.get_items()
 
     for item in items:
@@ -218,7 +228,7 @@ def dstocsv(ds, filename):
         csvwr = unicodecsv.UnicodeWriter(f)
         for i in range(len(ds['mashupid'])):
             row = [ds['mashupid'][i], ds['mashupname'][i] or '', str(ds['indegree'][i])]
-            print row
+            #print row
             csvwr.writerow(row)
 
 def checkredundant(fsource, fred):

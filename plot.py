@@ -8,7 +8,7 @@ import textwrap
 import csv
 
 GAMMA = u'\u03b3'
-LOGBINBASE = 1.1
+LOGBINBASE = 1.21
 STEP = 300 #300
 IFNONE = [] # to be returned when getargval does not find a key
 FUNC_FAIL = '-f'
