@@ -205,6 +205,7 @@ def readdeg(obj):
         , 'avgdepth': sum(depth) / float(len(depth))
         , 'meandepth': meandepth
         , 'avgmeandepth': sum(meandepth) / float(len(meandepth))}
+    , apis
 
 def savetofile(ds, filename):
     with open(filename, 'w') as f:
@@ -254,14 +255,18 @@ def checkredundant(fsource, fred):
             json.dump(ored, fr)
 
 def main(argv):
-    fmashupsjson = argv[1]
-    foutjson = argv[2]
-
+    option = argv[1]
+    fmashupsjson = argv[2]
     obj = load(fmashupsjson)
-    ds = readdeg(obj)
-    savetofile(ds, foutjson)
+    ds = readdeg(obj)[0]
 
-    if len(argv) > 3:
+    if option == '-p':
+        # generate json for plotting
+        foutjson = argv[3]
+        savetofile(ds, foutjson)
+
+    elif option == '-c':
+        # generate csv of apis and mashups 
         foutcsv = argv[3]
         dstocsv(ds, foutcsv)
 
